@@ -1,0 +1,26 @@
+{
+  "name": "pgp_file_encryption",
+  "version": "1.0.0",
+  "description": "Demo code to encrypt and decrypt the files using pgp algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pgp",
+    "file",
+    "encryption",
+    "openpgp",
+    "nodejs",
+    "decrypt",
+    "encrypt",
+    "js",
+    "node",
+    "demo"
+  ],
+  "author": "iam7rzlnt@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "openpgp": "^5.9.0"
+  }
+}
